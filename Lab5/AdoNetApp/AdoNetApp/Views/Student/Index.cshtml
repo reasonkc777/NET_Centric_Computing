@@ -1,0 +1,22 @@
+﻿@model AdoNetApp.Models.Student
+@{
+    ViewData["Title"] = "Add Student";
+}
+
+<h2>Add Student</h2>
+
+<form asp-action="Index" method="post">
+    <div>
+        @Html.LabelFor(m => m.StudentName)
+        @Html.TextBoxFor(m => m.StudentName)
+    </div>
+    <div>
+        @Html.LabelFor(m => m.Course)
+        @Html.TextBoxFor(m => m.Course)
+    </div>
+    <div>
+        @Html.LabelFor(m => m.Semester)
+        @Html.TextBoxFor(m => m.Semester)
+    </div>
+    <input type="submit" value="Add" />
+</form>

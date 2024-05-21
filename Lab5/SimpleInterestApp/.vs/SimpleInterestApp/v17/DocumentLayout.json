@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\reaso\\Downloads\\6th Sem Lab\\Net Centric Computing\\Lab-5\\SimpleInterestApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{687AF1E0-B325-48C4-B172-3A44AF8587FE}|SimpleInterestApp\\SimpleInterestApp.csproj|c:\\users\\reaso\\downloads\\6th sem lab\\net centric computing\\lab-5\\simpleinterestapp\\simpleinterestapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{687AF1E0-B325-48C4-B172-3A44AF8587FE}|SimpleInterestApp\\SimpleInterestApp.csproj|solutionrelative:simpleinterestapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{687AF1E0-B325-48C4-B172-3A44AF8587FE}|SimpleInterestApp\\SimpleInterestApp.csproj|C:\\Users\\reaso\\Downloads\\6th Sem Lab\\Net Centric Computing\\Lab-5\\SimpleInterestApp\\simpleinterestapp\\views\\interest\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{687AF1E0-B325-48C4-B172-3A44AF8587FE}|SimpleInterestApp\\SimpleInterestApp.csproj|solutionrelative:simpleinterestapp\\views\\interest\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{687AF1E0-B325-48C4-B172-3A44AF8587FE}|SimpleInterestApp\\SimpleInterestApp.csproj|C:\\Users\\reaso\\Downloads\\6th Sem Lab\\Net Centric Computing\\Lab-5\\SimpleInterestApp\\simpleinterestapp\\views\\interest\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{687AF1E0-B325-48C4-B172-3A44AF8587FE}|SimpleInterestApp\\SimpleInterestApp.csproj|solutionrelative:simpleinterestapp\\views\\interest\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{687AF1E0-B325-48C4-B172-3A44AF8587FE}|SimpleInterestApp\\SimpleInterestApp.csproj|C:\\Users\\reaso\\Downloads\\6th Sem Lab\\Net Centric Computing\\Lab-5\\SimpleInterestApp\\simpleinterestapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{687AF1E0-B325-48C4-B172-3A44AF8587FE}|SimpleInterestApp\\SimpleInterestApp.csproj|solutionrelative:simpleinterestapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{687AF1E0-B325-48C4-B172-3A44AF8587FE}|SimpleInterestApp\\SimpleInterestApp.csproj|C:\\Users\\reaso\\Downloads\\6th Sem Lab\\Net Centric Computing\\Lab-5\\SimpleInterestApp\\simpleinterestapp\\controllers\\interestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{687AF1E0-B325-48C4-B172-3A44AF8587FE}|SimpleInterestApp\\SimpleInterestApp.csproj|solutionrelative:simpleinterestapp\\controllers\\interestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{687AF1E0-B325-48C4-B172-3A44AF8587FE}|SimpleInterestApp\\SimpleInterestApp.csproj|C:\\Users\\reaso\\Downloads\\6th Sem Lab\\Net Centric Computing\\Lab-5\\SimpleInterestApp\\simpleinterestapp\\models\\simpleinterestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{687AF1E0-B325-48C4-B172-3A44AF8587FE}|SimpleInterestApp\\SimpleInterestApp.csproj|solutionrelative:simpleinterestapp\\models\\simpleinterestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\reaso\\Downloads\\6th Sem Lab\\Net Centric Computing\\Lab-5\\SimpleInterestApp\\SimpleInterestApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SimpleInterestApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\reaso\\Downloads\\6th Sem Lab\\Net Centric Computing\\Lab-5\\SimpleInterestApp\\SimpleInterestApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SimpleInterestApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T19:27:29.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\reaso\\Downloads\\6th Sem Lab\\Net Centric Computing\\Lab-5\\SimpleInterestApp\\SimpleInterestApp\\Program.cs",
+              "RelativeDocumentMoniker": "SimpleInterestApp\\Program.cs",
+              "ToolTip": "C:\\Users\\reaso\\Downloads\\6th Sem Lab\\Net Centric Computing\\Lab-5\\SimpleInterestApp\\SimpleInterestApp\\Program.cs",
+              "RelativeToolTip": "SimpleInterestApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T17:24:26.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Result.cshtml",
+              "DocumentMoniker": "C:\\Users\\reaso\\Downloads\\6th Sem Lab\\Net Centric Computing\\Lab-5\\SimpleInterestApp\\SimpleInterestApp\\Views\\Interest\\Result.cshtml",
+              "RelativeDocumentMoniker": "SimpleInterestApp\\Views\\Interest\\Result.cshtml",
+              "ToolTip": "C:\\Users\\reaso\\Downloads\\6th Sem Lab\\Net Centric Computing\\Lab-5\\SimpleInterestApp\\SimpleInterestApp\\Views\\Interest\\Result.cshtml",
+              "RelativeToolTip": "SimpleInterestApp\\Views\\Interest\\Result.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T17:24:14.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\reaso\\Downloads\\6th Sem Lab\\Net Centric Computing\\Lab-5\\SimpleInterestApp\\SimpleInterestApp\\Views\\Interest\\Index.cshtml",
+              "RelativeDocumentMoniker": "SimpleInterestApp\\Views\\Interest\\Index.cshtml",
+              "ToolTip": "C:\\Users\\reaso\\Downloads\\6th Sem Lab\\Net Centric Computing\\Lab-5\\SimpleInterestApp\\SimpleInterestApp\\Views\\Interest\\Index.cshtml",
+              "RelativeToolTip": "SimpleInterestApp\\Views\\Interest\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T17:22:26.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InterestController.cs",
+              "DocumentMoniker": "C:\\Users\\reaso\\Downloads\\6th Sem Lab\\Net Centric Computing\\Lab-5\\SimpleInterestApp\\SimpleInterestApp\\Controllers\\InterestController.cs",
+              "RelativeDocumentMoniker": "SimpleInterestApp\\Controllers\\InterestController.cs",
+              "ToolTip": "C:\\Users\\reaso\\Downloads\\6th Sem Lab\\Net Centric Computing\\Lab-5\\SimpleInterestApp\\SimpleInterestApp\\Controllers\\InterestController.cs",
+              "RelativeToolTip": "SimpleInterestApp\\Controllers\\InterestController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAzwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T17:21:25.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SimpleInterestModel.cs",
+              "DocumentMoniker": "C:\\Users\\reaso\\Downloads\\6th Sem Lab\\Net Centric Computing\\Lab-5\\SimpleInterestApp\\SimpleInterestApp\\Models\\SimpleInterestModel.cs",
+              "RelativeDocumentMoniker": "SimpleInterestApp\\Models\\SimpleInterestModel.cs",
+              "ToolTip": "C:\\Users\\reaso\\Downloads\\6th Sem Lab\\Net Centric Computing\\Lab-5\\SimpleInterestApp\\SimpleInterestApp\\Models\\SimpleInterestModel.cs",
+              "RelativeToolTip": "SimpleInterestApp\\Models\\SimpleInterestModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T17:20:50.233Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

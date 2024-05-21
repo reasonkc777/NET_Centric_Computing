@@ -1,0 +1,13 @@
+﻿@model SimpleInterestApp.Models.SimpleInterestModel
+@{
+    ViewData["Title"] = "Simple Interest Result";
+}
+
+<h2>Simple Interest Result</h2>
+<div>
+    <p>Principal: @Model.Principal</p>
+    <p>Rate: @Model.Rate</p>
+    <p>Time: @Model.Time</p>
+    <p>Interest: @Model.Interest</p>
+</div>
+<a asp-action="Index">Back</a>

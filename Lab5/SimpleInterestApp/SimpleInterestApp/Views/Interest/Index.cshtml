@@ -1,0 +1,22 @@
+﻿@model SimpleInterestApp.Models.SimpleInterestModel
+@{
+    ViewData["Title"] = "Calculate Simple Interest";
+}
+
+<h2>Calculate Simple Interest</h2>
+
+<form asp-action="Calculate" method="post">
+    <div>
+        @Html.LabelFor(m => m.Principal)
+        @Html.TextBoxFor(m => m.Principal)
+    </div>
+    <div>
+        @Html.LabelFor(m => m.Rate)
+        @Html.TextBoxFor(m => m.Rate)
+    </div>
+    <div>
+        @Html.LabelFor(m => m.Time)
+        @Html.TextBoxFor(m => m.Time)
+    </div>
+    <input type="submit" value="Calculate" />
+</form>

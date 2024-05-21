@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\reaso\\Downloads\\6th Sem Lab\\Net Centric Computing\\Lab-5\\AdoNetDemo_Single_Code\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16A969BA-E272-4A9D-A81F-34DE734FD0E0}|AdoNetDemo_Single_Code\\AdoNetDemo_Single_Code.csproj|c:\\users\\reaso\\downloads\\6th sem lab\\net centric computing\\lab-5\\adonetdemo_single_code\\adonetdemo_single_code\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16A969BA-E272-4A9D-A81F-34DE734FD0E0}|AdoNetDemo_Single_Code\\AdoNetDemo_Single_Code.csproj|solutionrelative:adonetdemo_single_code\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\reaso\\Downloads\\6th Sem Lab\\Net Centric Computing\\Lab-5\\AdoNetDemo_Single_Code\\AdoNetDemo_Single_Code\\Program.cs",
+              "RelativeDocumentMoniker": "AdoNetDemo_Single_Code\\Program.cs",
+              "ToolTip": "C:\\Users\\reaso\\Downloads\\6th Sem Lab\\Net Centric Computing\\Lab-5\\AdoNetDemo_Single_Code\\AdoNetDemo_Single_Code\\Program.cs",
+              "RelativeToolTip": "AdoNetDemo_Single_Code\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T19:07:25.844Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

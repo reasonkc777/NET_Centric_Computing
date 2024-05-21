@@ -1,0 +1,29 @@
+﻿@model StudentInfoApp.Models.StudentModel
+@{
+    ViewData["Title"] = "Student Information";
+}
+
+<h2>Student Information</h2>
+
+<form asp-action="Submit" method="post">
+    <div>
+        @Html.LabelFor(m => m.StudentName)
+        @Html.TextBoxFor(m => m.StudentName)
+        @Html.ValidationMessageFor(m => m.StudentName)
+    </div>
+    <div>
+        @Html.LabelFor(m => m.Course)
+        @Html.TextBoxFor(m => m.Course)
+        @Html.ValidationMessageFor(m => m.Course)
+    </div>
+    <div>
+        @Html.LabelFor(m => m.Semester)
+        @Html.TextBoxFor(m => m.Semester)
+        @Html.ValidationMessageFor(m => m.Semester)
+    </div>
+    <input type="submit" value="Submit" />
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
