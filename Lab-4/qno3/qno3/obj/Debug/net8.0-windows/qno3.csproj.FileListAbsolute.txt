@@ -1,0 +1,16 @@
+C:\Users\reaso\Downloads\6th Sem Lab\Net Centric Computing\Lab-4\qno3\qno3\bin\Debug\net8.0-windows\qno3.exe
+C:\Users\reaso\Downloads\6th Sem Lab\Net Centric Computing\Lab-4\qno3\qno3\bin\Debug\net8.0-windows\qno3.deps.json
+C:\Users\reaso\Downloads\6th Sem Lab\Net Centric Computing\Lab-4\qno3\qno3\bin\Debug\net8.0-windows\qno3.runtimeconfig.json
+C:\Users\reaso\Downloads\6th Sem Lab\Net Centric Computing\Lab-4\qno3\qno3\bin\Debug\net8.0-windows\qno3.dll
+C:\Users\reaso\Downloads\6th Sem Lab\Net Centric Computing\Lab-4\qno3\qno3\bin\Debug\net8.0-windows\qno3.pdb
+C:\Users\reaso\Downloads\6th Sem Lab\Net Centric Computing\Lab-4\qno3\qno3\obj\Debug\net8.0-windows\qno3.Form1.resources
+C:\Users\reaso\Downloads\6th Sem Lab\Net Centric Computing\Lab-4\qno3\qno3\obj\Debug\net8.0-windows\qno3.csproj.GenerateResource.cache
+C:\Users\reaso\Downloads\6th Sem Lab\Net Centric Computing\Lab-4\qno3\qno3\obj\Debug\net8.0-windows\qno3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reaso\Downloads\6th Sem Lab\Net Centric Computing\Lab-4\qno3\qno3\obj\Debug\net8.0-windows\qno3.AssemblyInfoInputs.cache
+C:\Users\reaso\Downloads\6th Sem Lab\Net Centric Computing\Lab-4\qno3\qno3\obj\Debug\net8.0-windows\qno3.AssemblyInfo.cs
+C:\Users\reaso\Downloads\6th Sem Lab\Net Centric Computing\Lab-4\qno3\qno3\obj\Debug\net8.0-windows\qno3.csproj.CoreCompileInputs.cache
+C:\Users\reaso\Downloads\6th Sem Lab\Net Centric Computing\Lab-4\qno3\qno3\obj\Debug\net8.0-windows\qno3.dll
+C:\Users\reaso\Downloads\6th Sem Lab\Net Centric Computing\Lab-4\qno3\qno3\obj\Debug\net8.0-windows\refint\qno3.dll
+C:\Users\reaso\Downloads\6th Sem Lab\Net Centric Computing\Lab-4\qno3\qno3\obj\Debug\net8.0-windows\qno3.pdb
+C:\Users\reaso\Downloads\6th Sem Lab\Net Centric Computing\Lab-4\qno3\qno3\obj\Debug\net8.0-windows\qno3.genruntimeconfig.cache
+C:\Users\reaso\Downloads\6th Sem Lab\Net Centric Computing\Lab-4\qno3\qno3\obj\Debug\net8.0-windows\ref\qno3.dll
